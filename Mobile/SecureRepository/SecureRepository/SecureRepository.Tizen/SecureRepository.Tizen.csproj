@@ -42,6 +42,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+
   <ItemGroup>
     <None Include="SecureRepository.Tizen.project.json" />
     <None Include="shared\res\tizen_pem.crt" />

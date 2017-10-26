@@ -1,4 +1,4 @@
-﻿ /*
+ /*
  *  Copyright (c) 2017 Samsung Electronics Co., Ltd All Rights Reserved
  *
  *  Contact: Ernest Borowski <e.borowski@partner.samsung.com>

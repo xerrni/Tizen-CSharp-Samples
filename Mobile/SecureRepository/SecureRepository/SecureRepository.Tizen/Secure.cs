@@ -68,6 +68,7 @@ namespace SecureRepository.Tizen
         {
             IEnumerable<string> aliases;
             aliases = this.GetAliases();
+
             if (aliases != null)
             {
                 List<string> shortAlises = new List<string>();
